@@ -3,6 +3,6 @@ title: Edit this wiki with Netlify CMS
 ---
 Blah blah
 
-and another
+and another piece
 
 ![](/images/uploads/untitled.png)
