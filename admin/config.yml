@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: you/your-repo
+  repo: petrbouchal/papvs
   branch: main
   site_domain: your-optional-netlify-link.netlify.app
 
