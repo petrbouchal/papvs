@@ -1,7 +1,8 @@
 ---
 title: Edit this wiki with Netlify CMS
 ---
-
 Blah blah
 
 and another
+
+![](/images/uploads/untitled.png)
