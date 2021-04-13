@@ -2,7 +2,7 @@ backend:
   name: github
   repo: petrbouchal/papvs
   branch: main
-  site_domain: confident-chandrasekhar-5c3218.netlify.app
+  site_domain: petrbouchal.xyz
 
 site_url: https://petrbouchal.github.io/papvs/
 
