@@ -5,4 +5,4 @@ Blah blah
 
 and another piece
 
-![](/images/uploads/untitled.png)
+![](images/uploads/untitled.png)
